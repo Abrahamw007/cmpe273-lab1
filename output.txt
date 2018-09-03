@@ -1,0 +1,20 @@
+C:\Users\HP\AppData\Local\Programs\Python\Python37\python.exe C:/Users/HP/PycharmProjects/untitled/273HomeWork/http_call.py
+Mon, 03 Sep 2018 04:04:56 GMT
+Mon, 03 Sep 2018 04:04:57 GMT
+Mon, 03 Sep 2018 04:04:57 GMT
+
+Process finished with exit code 0
+
+
+
+
+
+
+C:\Users\HP\AppData\Local\Programs\Python\Python37\python.exe C:/Users/HP/PycharmProjects/untitled/273HomeWork/http_async_call.py
+Couroutine 0 , has successfully completd after 1 seconds  Sun, 02 Sep 2018 20:21:06 GMT
+Couroutine 2 , has successfully completd after 2 seconds  Sun, 02 Sep 2018 20:21:07 GMT
+Couroutine 1 , has successfully completd after 3 seconds  Sun, 02 Sep 2018 20:21:07 GMT
+Couroutine 3 , has successfully completd after 2 seconds  Sun, 02 Sep 2018 20:21:08 GMT
+Couroutine 4 , has successfully completd after 7 seconds  Sun, 02 Sep 2018 20:21:09 GMT
+
+Process finished with exit code 0
